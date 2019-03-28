@@ -1,0 +1,30 @@
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\bin\Debug\Proje2.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.exe
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Ramazan\AppData\Local\Temporary Projects\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Ramazan\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Ramazan\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Ramazan\Desktop\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Ramazan\Desktop\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\MKA\Desktop\P\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\MKA\Desktop\P\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\MKA\Desktop\P\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\MKA\Desktop\P\Proje2\Proje2\obj\Debug\Proje2.pdb
